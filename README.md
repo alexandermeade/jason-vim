@@ -6,5 +6,6 @@ Installation:
 
 
 Using vim-plug:
-    Plug 'yourusername/jason-vim'
+
+        Plug 'yourusername/jason-vim'
 

@@ -7,5 +7,6 @@ Installation:
 
 Using vim-plug:
 
-        Plug 'yourusername/jason-vim'
+        Plug 'alexandermeade/jason-vim'
+        
 
